@@ -1,2 +1,2 @@
 # transcode
-Char encode/decode tool
+Text encode/decode tools

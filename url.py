@@ -7,6 +7,7 @@ def encode(input):
     res = parse.quote(input)
     return res
 
+
 def decode(input):
     res = parse.unquote(input)
     return res
